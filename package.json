@@ -1,0 +1,26 @@
+{
+  "name": "ember-cli-jquery-cookie",
+  "version": "0.0.1",
+  "description": "Include jquery-cookie.js into an ember-cli application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamjstates/ember-cli-jquery-cookie"
+  },
+  "keywords": [
+    "ember-addon"
+  ],
+  "author": "Jay States",
+  "license": "MIT",
+  "dependencies": {
+    "jquery-cookie": ">=1.4.1"
+  },
+  "bugs": {
+    "url": "https://github.com/iamjstates/ember-cli-jquery-cookie/issues"
+  },
+  "homepage": "https://github.com/iamjstates/ember-cli-jquery-cookie",
+  "devDependencies": {}
+}
